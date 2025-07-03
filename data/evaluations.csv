@@ -1,0 +1,8 @@
+{
+  "prompt": "Explain the difference between supervised and unsupervised learning.",
+  "responses": [
+    "Supervised learning uses labeled data while unsupervised learning does not. It is like teaching a child with answers vs. exploring without answers.",
+    "In supervised learning, models learn from data with labels. Unsupervised learning involves learning patterns from data without labels.",
+    "Supervised: labels given. Unsupervised: no labels. Easy!"
+  ]
+}
